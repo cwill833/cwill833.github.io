@@ -1,0 +1,8 @@
+body{
+  width: 100vw;
+  text-align: center;
+}
+
+.gone{
+  opacity: 0;
+}
